@@ -1,0 +1,6 @@
+flask
+flask[async]
+gunicorn
+aiosqlite
+SQLAlchemy
+aiogram
